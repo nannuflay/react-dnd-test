@@ -1,6 +1,4 @@
 export const COLUMN_NAMES = {
-    DO_IT: 'Do it',
-    IN_PROGRESS: 'In Progress',
-    AWAITING_REVIEW: 'Awaiting review',
-    DONE: 'Done',
-}
+  RIGHT_DROPZONE: "Right DropZone",
+  LEFT_DROPZONE: "Left DropZone",
+};
